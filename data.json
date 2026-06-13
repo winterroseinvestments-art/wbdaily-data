@@ -1,1 +1,145 @@
-
+{
+  "lastUpdated": "2026-06-13T09:00:00.000Z",
+  "settings": {
+    "siteName": "WB Daily",
+    "tagline": "Daily stock picks for independent traders",
+    "context": "Post-crash recovery — FOMC decision June 17 is the key catalyst this week",
+    "news": [
+      {
+        "title": "Iran–US peace deal reported near — Strait of Hormuz may reopen",
+        "desc": "Reports emerged Friday of a near-final agreement that would lift Iranian oil sanctions and reopen the Strait of Hormuz. Crude oil fell 2% to ~$85 on the news. If confirmed this removes the geopolitical risk premium from energy markets and historically redirects capital flows toward growth and industrial assets.",
+        "tag": "Bullish equities",
+        "src": "Schwab Market Update · June 12, 2026"
+      },
+      {
+        "title": "JPMorgan withdraws $350B from Fed — deploys into US Treasuries",
+        "desc": "JPMorgan Chase pulled $350 billion from Federal Reserve reverse repos and rotated directly into US Treasury bonds. This is the largest single institutional rotation into Treasuries in recent months — locking in 4.5%+ yield at scale and signalling that the largest US bank views current rates as near their peak.",
+        "tag": "Rates near peak signal",
+        "src": "Seeking Alpha · June 13, 2026"
+      },
+      {
+        "title": "US Manufacturing ISM hits 4-year high of 54 — fifth straight month of expansion",
+        "desc": "The ISM Manufacturing gauge rose to 54 in May — the highest reading since May 2022 and the fifth consecutive month of expansion. New orders and production both accelerated. The broader economy is expanding even as financial markets focus on rate fears — a divergence that historically resolves in favour of equities.",
+        "tag": "Industrials bullish",
+        "src": "Institute for Supply Management · June 1, 2026"
+      }
+    ],
+    "events": [
+      {
+        "title": "FOMC Rate Decision — June 17, 2026",
+        "desc": "The Federal Reserve announces its rate decision on Tuesday. Markets are currently pricing a 43% probability of a rate hike by December following last week's strong jobs report. If Fed Chair Powell's tone is less hawkish than feared, beaten-down quality stocks historically stage sharp relief rallies. This is the single most important event for markets this week.",
+        "tag": "High impact — binary outcome",
+        "dateTag": "June 17 · 2:00pm ET"
+      },
+      {
+        "title": "Bank of Japan Rate Decision — June 16, 2026",
+        "desc": "The Bank of Japan announces policy on Monday. A surprise rate hike would strengthen the yen and trigger unwinding of global yen carry trades — a dynamic that caused significant volatility in August 2024. Most analysts expect a hold but this is the most under-watched risk event of the week for global markets.",
+        "tag": "Carry trade risk — under-watched",
+        "dateTag": "June 16, 2026"
+      },
+      {
+        "title": "US Retail Sales + May Industrial Production — June 17, 2026",
+        "desc": "Retail sales data releases the same morning as the Fed decision. Strong retail sales suggest the consumer is holding up and gives the Fed room to stay hawkish. Weak retail sales suggest consumer stress and increases pressure on the Fed to pause. This data point will directly shape market interpretation of whatever the Fed says at 2pm.",
+        "tag": "Consumer health read — doubles FOMC impact",
+        "dateTag": "June 17 · 8:30am ET"
+      }
+    ]
+  },
+  "picks": [
+    {
+      "id": 1718265600001,
+      "ticker": "FCN",
+      "company": "FTI Consulting",
+      "category": "best",
+      "date": "2026-06-13",
+      "entry": "$138–$143",
+      "entryDisplay": "$138–$143",
+      "stop": "$130",
+      "target1": "$165",
+      "target2": "$185",
+      "current": "140",
+      "entryNum": "141",
+      "status": "open",
+      "score": 4,
+      "tags": "Counter-cyclical, NYSE, Consulting",
+      "desc": "FTI Consulting provides restructuring, litigation, and economic consulting to major corporations globally. Down 33% from highs. Business fundamentals remain strong with growing demand across all divisions. Analyst targets $165–$185.",
+      "warn": ""
+    },
+    {
+      "id": 1718265600002,
+      "ticker": "AEM",
+      "company": "Agnico Eagle Mines",
+      "category": "best",
+      "date": "2026-06-13",
+      "entry": "$100–$106",
+      "entryDisplay": "$100–$106",
+      "stop": "$94",
+      "target1": "$130",
+      "target2": "$160",
+      "current": "103",
+      "entryNum": "103",
+      "status": "open",
+      "score": 4,
+      "tags": "Gold Miner, NYSE, Dividend",
+      "desc": "World's largest high-quality gold miner with operations across Canada, Australia and Finland. Q1 2026 revenue grew 27% and free cash flow grew 128% year-on-year. Analyst consensus price target $199–$217 vs current ~$103. Pays growing dividend.",
+      "warn": ""
+    },
+    {
+      "id": 1718265600003,
+      "ticker": "CHTR",
+      "company": "Charter Communications",
+      "category": "best",
+      "date": "2026-06-13",
+      "entry": "$140–$145",
+      "entryDisplay": "$140–$145",
+      "stop": "$130",
+      "target1": "$175",
+      "target2": "$210",
+      "current": "142",
+      "entryNum": "142",
+      "status": "open",
+      "score": 4,
+      "tags": "Telecom, NYSE, $25B Buyback",
+      "desc": "Charter is the second largest cable and broadband operator in the US serving 32 million customers. Down 50% from 2025 highs. $25 billion share buyback program active. Broadband is essential infrastructure with strong pricing power. Analyst targets $185–$220.",
+      "warn": ""
+    },
+    {
+      "id": 1718265600004,
+      "ticker": "BBAI",
+      "company": "BigBear.ai Holdings",
+      "category": "range",
+      "date": "2026-06-13",
+      "entry": "$3.20–$3.60",
+      "entryDisplay": "$3.20–$3.60",
+      "stop": "$2.70",
+      "target1": "$5.00",
+      "target2": "$7.00",
+      "current": "3.40",
+      "entryNum": "3.40",
+      "status": "open",
+      "score": 4,
+      "tags": "Defense AI, NYSE, Small Cap",
+      "desc": "BigBear.ai provides AI-powered decision intelligence platforms to US defence and intelligence agencies. Revenue growing with expanding government contracts. Key product validation milestone scheduled July 1, 2026. Analyst consensus target $5.33.",
+      "warn": ""
+    },
+    {
+      "id": 1718265600005,
+      "ticker": "RCAT",
+      "company": "Red Cat Holdings",
+      "category": "range",
+      "date": "2026-06-13",
+      "entry": "$10.50–$11.50",
+      "entryDisplay": "$10.50–$11.50",
+      "stop": "$9.00",
+      "target1": "$15.00",
+      "target2": "$18.00",
+      "current": "11.12",
+      "entryNum": "11.00",
+      "status": "open",
+      "score": 3,
+      "tags": "Defense Drone, NASDAQ, NDAA-compliant",
+      "desc": "Red Cat makes US-manufactured autonomous drones for defence applications with no Chinese components. Recently completed a $225M capital raise. All four covering analysts rate Strong Buy with targets of $19–$21. Active US Army contracts in production.",
+      "warn": "Large holder sale filing June 12 — watch Monday volume before entering"
+    }
+  ]
+}
