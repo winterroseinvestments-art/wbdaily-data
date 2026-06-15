@@ -3,44 +3,44 @@
   "settings": {
     "siteName": "WB Daily",
     "tagline": "Daily stock picks for independent traders",
-    "context": "Iran peace deal signed — FOMC decision Wednesday — rate hike probability falls to 2%",
+    "context": "Iran peace deal signed - FOMC decision Wednesday - rate hike probability falls to 2%",
     "news": [
       {
-        "title": "US and Iran reach peace deal — Strait of Hormuz set to reopen within 30 days",
-        "desc": "The US and Iran agreed on a framework peace deal over the weekend, with the Strait of Hormuz reopening within 30 days as a key provision. Oil prices retreated on the news, Treasury yields pulled back, and S&P 500 futures are up this morning. This directly removes the two biggest headwinds from last week's crash — geopolitical risk premium in oil and the associated rate-hike fears that came with elevated energy prices.",
-        "tag": "Bullish equities — rate relief",
+        "title": "US and Iran reach peace deal - Strait of Hormuz set to reopen within 30 days",
+        "desc": "The US and Iran agreed on a framework peace deal over the weekend, with the Strait of Hormuz reopening within 30 days as a key provision. Oil prices retreated on the news, Treasury yields pulled back, and S&P 500 futures are up this morning. This directly removes the two biggest headwinds from last week's crash - geopolitical risk premium in oil and the associated rate-hike fears that came with elevated energy prices.",
+        "tag": "Bullish equities - rate relief",
         "src": "Bloomberg / Yahoo Finance · June 15, 2026"
       },
       {
-        "title": "SpaceX (SPCX) IPO surges 19% in debut — largest IPO in history at $75B",
-        "desc": "SpaceX debuted on NASDAQ Friday at $135, closing at $160 — a 19% first-day gain — with market cap crossing $2 trillion. The overhang from investors raising cash for the IPO is now cleared, removing a key source of selling pressure that weighed on tech stocks all week. Five companies including Rocket Lab and CoreWeave were simultaneously added to the Nasdaq-100 in the June rebalancing.",
+        "title": "SpaceX (SPCX) IPO surges 19% in debut - largest IPO in history at $75B",
+        "desc": "SpaceX debuted on NASDAQ Friday at $135, closing at $160 - a 19% first-day gain - with market cap crossing $2 trillion. The overhang from investors raising cash for the IPO is now cleared, removing a key source of selling pressure that weighed on tech stocks all week. Five companies including Rocket Lab and CoreWeave were simultaneously added to the Nasdaq-100 in the June rebalancing.",
         "tag": "Tech overhang cleared",
         "src": "Yahoo Finance / CNBC · June 12-15, 2026"
       },
       {
-        "title": "Fed rate hike probability falls to 2% — markets now price 98% chance of hold on June 17",
-        "desc": "Rate hike expectations cooled significantly heading into this week. Bloomberg rate probabilities show the first theoretical 100% probability of a hike has moved out to March 2027, from December 2026 last week. New Fed Chair Kevin Warsh holds his first press conference Wednesday — his tone on inflation will be the key signal for the rest of 2026.",
-        "tag": "Rate relief — FOMC watch",
+        "title": "Fed rate hike probability falls to 2% - markets now price 98% chance of hold on June 17",
+        "desc": "Rate hike expectations cooled significantly heading into this week. Bloomberg rate probabilities show the first theoretical 100% probability of a hike has moved out to March 2027, from December 2026 last week. New Fed Chair Kevin Warsh holds his first press conference Wednesday - his tone on inflation will be the key signal for the rest of 2026.",
+        "tag": "Rate relief - FOMC watch",
         "src": "Bloomberg / Schwab Market Update · June 13-15, 2026"
       }
     ],
     "events": [
       {
-        "title": "FOMC Rate Decision + Fed Chair Warsh Press Conference — June 17",
-        "desc": "Wednesday's Fed decision is the most important event of the week. Markets are pricing 98% probability of a hold. The real event is new Fed Chair Kevin Warsh's inaugural press conference — his tone on inflation and future rate trajectory will set the market's expectations for the rest of 2026. A less hawkish tone than feared could trigger a sharp relief rally in beaten-down quality names.",
+        "title": "FOMC Rate Decision + Fed Chair Warsh Press Conference - June 17",
+        "desc": "Wednesday's Fed decision is the most important event of the week. Markets are pricing 98% probability of a hold. The real event is new Fed Chair Kevin Warsh's inaugural press conference - his tone on inflation and future rate trajectory will set the market's expectations for the rest of 2026. A less hawkish tone than feared could trigger a sharp relief rally in beaten-down quality names.",
         "tag": "Highest impact event of the week",
         "dateTag": "June 17 · 2:00pm ET"
       },
       {
-        "title": "Bank of Japan Rate Decision — June 16",
-        "desc": "The Bank of Japan announces policy tomorrow. Most analysts expect a hold. A surprise rate hike would strengthen the yen, trigger unwinding of global yen carry trades, and create risk-off pressure across global markets — the same dynamic that caused the August 2024 volatility spike. Low probability but high impact if it occurs.",
+        "title": "Bank of Japan Rate Decision - June 16",
+        "desc": "The Bank of Japan announces policy tomorrow. Most analysts expect a hold. A surprise rate hike would strengthen the yen, trigger unwinding of global yen carry trades, and create risk-off pressure across global markets - the same dynamic that caused the August 2024 volatility spike. Low probability but high impact if it occurs.",
         "tag": "Under-watched tail risk",
         "dateTag": "June 16, 2026"
       },
       {
-        "title": "US Retail Sales + Industrial Production — June 15 & 17",
-        "desc": "May Industrial Production releases today. May Retail Sales drop on June 17 — the same morning as the Fed decision. Weak retail sales would signal consumer stress and increase pressure on the Fed to remain dovish. Strong retail sales give the Fed room to stay firm. This data directly shapes how markets interpret whatever Warsh says at 2pm Wednesday.",
-        "tag": "Double catalyst — consumer health read",
+        "title": "US Retail Sales + Industrial Production - June 15 & 17",
+        "desc": "May Industrial Production releases today. May Retail Sales drop on June 17 - the same morning as the Fed decision. Weak retail sales would signal consumer stress and increase pressure on the Fed to remain dovish. Strong retail sales give the Fed room to stay firm. This data directly shapes how markets interpret whatever Warsh says at 2pm Wednesday.",
+        "tag": "Double catalyst - consumer health read",
         "dateTag": "June 15 & 17 · 8:30am ET"
       }
     ]
@@ -139,7 +139,7 @@
       "score": 3,
       "tags": "Defense Drone, NASDAQ, NDAA-compliant",
       "desc": "Red Cat makes US-manufactured autonomous drones for defence applications with no Chinese components. Recently completed a $225M capital raise strengthening the balance sheet. All four covering analysts rate Strong Buy with targets of $19-$21. Active US Army contracts currently in production.",
-      "warn": "Large holder sale filing June 12 — confirm volume stabilisation before entering"
+      "warn": "Large holder sale filing June 12 - confirm volume stabilisation before entering"
     }
   ]
 }
