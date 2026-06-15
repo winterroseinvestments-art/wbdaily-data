@@ -15,13 +15,13 @@
         "title": "SpaceX (SPCX) IPO surges 19% in debut — largest IPO in history at $75B",
         "desc": "SpaceX debuted on NASDAQ Friday at $135, closing at $160 — a 19% first-day gain — with market cap crossing $2 trillion. The overhang from investors raising cash for the IPO is now cleared, removing a key source of selling pressure that weighed on tech stocks all week. Five companies including Rocket Lab and CoreWeave were simultaneously added to the Nasdaq-100 in the June rebalancing.",
         "tag": "Tech overhang cleared",
-        "src": "Yahoo Finance / CNBC · June 12–15, 2026"
+        "src": "Yahoo Finance / CNBC · June 12-15, 2026"
       },
       {
         "title": "Fed rate hike probability falls to 2% — markets now price 98% chance of hold on June 17",
         "desc": "Rate hike expectations cooled significantly heading into this week. Bloomberg rate probabilities show the first theoretical 100% probability of a hike has moved out to March 2027, from December 2026 last week. New Fed Chair Kevin Warsh holds his first press conference Wednesday — his tone on inflation will be the key signal for the rest of 2026.",
         "tag": "Rate relief — FOMC watch",
-        "src": "Bloomberg / Schwab Market Update · June 13–15, 2026"
+        "src": "Bloomberg / Schwab Market Update · June 13-15, 2026"
       }
     ],
     "events": [
@@ -52,8 +52,8 @@
       "company": "FTI Consulting",
       "category": "best",
       "date": "2026-06-15",
-      "entry": "$138–$143",
-      "entryDisplay": "$138–$143",
+      "entry": "$138-$143",
+      "entryDisplay": "$138-$143",
       "stop": "$130",
       "target1": "$165",
       "target2": "$185",
@@ -62,7 +62,7 @@
       "status": "open",
       "score": 4,
       "tags": "Counter-cyclical, NYSE, Consulting",
-      "desc": "FTI Consulting provides restructuring, litigation, and economic consulting to major corporations globally. Down 33% from recent highs. Business fundamentals remain strong with growing demand across all divisions. Analyst targets $165–$185. Counter-cyclical business that historically performs well in periods of economic uncertainty.",
+      "desc": "FTI Consulting provides restructuring, litigation, and economic consulting to major corporations globally. Down 33% from recent highs. Business fundamentals remain strong with growing demand across all divisions. Analyst targets $165-$185. Counter-cyclical business that historically performs well in periods of economic uncertainty.",
       "warn": ""
     },
     {
@@ -71,8 +71,8 @@
       "company": "Agnico Eagle Mines",
       "category": "best",
       "date": "2026-06-15",
-      "entry": "$100–$106",
-      "entryDisplay": "$100–$106",
+      "entry": "$100-$106",
+      "entryDisplay": "$100-$106",
       "stop": "$94",
       "target1": "$130",
       "target2": "$160",
@@ -81,7 +81,7 @@
       "status": "open",
       "score": 4,
       "tags": "Gold Miner, NYSE, Dividend",
-      "desc": "World's highest-quality gold mining operations across Canada, Australia and Finland. Q1 2026 revenue grew 27% year-on-year and free cash flow grew 128%. Analyst consensus price target $199–$217 versus current ~$103. Pays a growing dividend. Gold prices remain structurally elevated globally.",
+      "desc": "World's highest-quality gold mining operations across Canada, Australia and Finland. Q1 2026 revenue grew 27% year-on-year and free cash flow grew 128%. Analyst consensus price target $199-$217 versus current ~$103. Pays a growing dividend. Gold prices remain structurally elevated globally.",
       "warn": ""
     },
     {
@@ -90,8 +90,8 @@
       "company": "Charter Communications",
       "category": "best",
       "date": "2026-06-15",
-      "entry": "$140–$145",
-      "entryDisplay": "$140–$145",
+      "entry": "$140-$145",
+      "entryDisplay": "$140-$145",
       "stop": "$130",
       "target1": "$175",
       "target2": "$210",
@@ -100,7 +100,7 @@
       "status": "open",
       "score": 4,
       "tags": "Telecom, NYSE, $25B Buyback",
-      "desc": "Charter is the second largest cable and broadband operator in the US serving 32 million customers. Down 50% from 2025 highs. $25 billion share buyback program active at current prices. Broadband remains essential infrastructure with strong pricing power. Analyst targets $185–$220.",
+      "desc": "Charter is the second largest cable and broadband operator in the US serving 32 million customers. Down 50% from 2025 highs. $25 billion share buyback program active at current prices. Broadband remains essential infrastructure with strong pricing power. Analyst targets $185-$220.",
       "warn": ""
     },
     {
@@ -109,8 +109,8 @@
       "company": "BigBear.ai Holdings",
       "category": "range",
       "date": "2026-06-15",
-      "entry": "$3.20–$3.60",
-      "entryDisplay": "$3.20–$3.60",
+      "entry": "$3.20-$3.60",
+      "entryDisplay": "$3.20-$3.60",
       "stop": "$2.70",
       "target1": "$5.00",
       "target2": "$7.00",
@@ -128,8 +128,8 @@
       "company": "Red Cat Holdings",
       "category": "range",
       "date": "2026-06-15",
-      "entry": "$10.50–$11.50",
-      "entryDisplay": "$10.50–$11.50",
+      "entry": "$10.50-$11.50",
+      "entryDisplay": "$10.50-$11.50",
       "stop": "$9.00",
       "target1": "$15.00",
       "target2": "$18.00",
@@ -138,7 +138,7 @@
       "status": "open",
       "score": 3,
       "tags": "Defense Drone, NASDAQ, NDAA-compliant",
-      "desc": "Red Cat makes US-manufactured autonomous drones for defence applications with no Chinese components. Recently completed a $225M capital raise strengthening the balance sheet. All four covering analysts rate Strong Buy with targets of $19–$21. Active US Army contracts currently in production.",
+      "desc": "Red Cat makes US-manufactured autonomous drones for defence applications with no Chinese components. Recently completed a $225M capital raise strengthening the balance sheet. All four covering analysts rate Strong Buy with targets of $19-$21. Active US Army contracts currently in production.",
       "warn": "Large holder sale filing June 12 — confirm volume stabilisation before entering"
     }
   ]
