@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-06-13T09:00:00.000Z",
+  "lastUpdated": "2026-06-15T09:00:00.000Z",
   "settings": {
     "siteName": "WB Daily",
     "tagline": "Daily stock picks for independent traders",
-    "context": "Post-crash recovery — FOMC decision June 17 is the key catalyst this week",
+    "context": "Iran peace deal signed — FOMC decision Wednesday — rate hike probability falls to 2%",
     "news": [
       {
-        "title": "Iran–US peace deal reported near — Strait of Hormuz may reopen",
-        "desc": "Reports emerged Friday of a near-final agreement that would lift Iranian oil sanctions and reopen the Strait of Hormuz. Crude oil fell 2% to ~$85 on the news. If confirmed this removes the geopolitical risk premium from energy markets and historically redirects capital flows toward growth and industrial assets.",
-        "tag": "Bullish equities",
-        "src": "Schwab Market Update · June 12, 2026"
+        "title": "US and Iran reach peace deal — Strait of Hormuz set to reopen within 30 days",
+        "desc": "The US and Iran agreed on a framework peace deal over the weekend, with the Strait of Hormuz reopening within 30 days as a key provision. Oil prices retreated on the news, Treasury yields pulled back, and S&P 500 futures are up this morning. This directly removes the two biggest headwinds from last week's crash — geopolitical risk premium in oil and the associated rate-hike fears that came with elevated energy prices.",
+        "tag": "Bullish equities — rate relief",
+        "src": "Bloomberg / Yahoo Finance · June 15, 2026"
       },
       {
-        "title": "JPMorgan withdraws $350B from Fed — deploys into US Treasuries",
-        "desc": "JPMorgan Chase pulled $350 billion from Federal Reserve reverse repos and rotated directly into US Treasury bonds. This is the largest single institutional rotation into Treasuries in recent months — locking in 4.5%+ yield at scale and signalling that the largest US bank views current rates as near their peak.",
-        "tag": "Rates near peak signal",
-        "src": "Seeking Alpha · June 13, 2026"
+        "title": "SpaceX (SPCX) IPO surges 19% in debut — largest IPO in history at $75B",
+        "desc": "SpaceX debuted on NASDAQ Friday at $135, closing at $160 — a 19% first-day gain — with market cap crossing $2 trillion. The overhang from investors raising cash for the IPO is now cleared, removing a key source of selling pressure that weighed on tech stocks all week. Five companies including Rocket Lab and CoreWeave were simultaneously added to the Nasdaq-100 in the June rebalancing.",
+        "tag": "Tech overhang cleared",
+        "src": "Yahoo Finance / CNBC · June 12–15, 2026"
       },
       {
-        "title": "US Manufacturing ISM hits 4-year high of 54 — fifth straight month of expansion",
-        "desc": "The ISM Manufacturing gauge rose to 54 in May — the highest reading since May 2022 and the fifth consecutive month of expansion. New orders and production both accelerated. The broader economy is expanding even as financial markets focus on rate fears — a divergence that historically resolves in favour of equities.",
-        "tag": "Industrials bullish",
-        "src": "Institute for Supply Management · June 1, 2026"
+        "title": "Fed rate hike probability falls to 2% — markets now price 98% chance of hold on June 17",
+        "desc": "Rate hike expectations cooled significantly heading into this week. Bloomberg rate probabilities show the first theoretical 100% probability of a hike has moved out to March 2027, from December 2026 last week. New Fed Chair Kevin Warsh holds his first press conference Wednesday — his tone on inflation will be the key signal for the rest of 2026.",
+        "tag": "Rate relief — FOMC watch",
+        "src": "Bloomberg / Schwab Market Update · June 13–15, 2026"
       }
     ],
     "events": [
       {
-        "title": "FOMC Rate Decision — June 17, 2026",
-        "desc": "The Federal Reserve announces its rate decision on Tuesday. Markets are currently pricing a 43% probability of a rate hike by December following last week's strong jobs report. If Fed Chair Powell's tone is less hawkish than feared, beaten-down quality stocks historically stage sharp relief rallies. This is the single most important event for markets this week.",
-        "tag": "High impact — binary outcome",
+        "title": "FOMC Rate Decision + Fed Chair Warsh Press Conference — June 17",
+        "desc": "Wednesday's Fed decision is the most important event of the week. Markets are pricing 98% probability of a hold. The real event is new Fed Chair Kevin Warsh's inaugural press conference — his tone on inflation and future rate trajectory will set the market's expectations for the rest of 2026. A less hawkish tone than feared could trigger a sharp relief rally in beaten-down quality names.",
+        "tag": "Highest impact event of the week",
         "dateTag": "June 17 · 2:00pm ET"
       },
       {
-        "title": "Bank of Japan Rate Decision — June 16, 2026",
-        "desc": "The Bank of Japan announces policy on Monday. A surprise rate hike would strengthen the yen and trigger unwinding of global yen carry trades — a dynamic that caused significant volatility in August 2024. Most analysts expect a hold but this is the most under-watched risk event of the week for global markets.",
-        "tag": "Carry trade risk — under-watched",
+        "title": "Bank of Japan Rate Decision — June 16",
+        "desc": "The Bank of Japan announces policy tomorrow. Most analysts expect a hold. A surprise rate hike would strengthen the yen, trigger unwinding of global yen carry trades, and create risk-off pressure across global markets — the same dynamic that caused the August 2024 volatility spike. Low probability but high impact if it occurs.",
+        "tag": "Under-watched tail risk",
         "dateTag": "June 16, 2026"
       },
       {
-        "title": "US Retail Sales + May Industrial Production — June 17, 2026",
-        "desc": "Retail sales data releases the same morning as the Fed decision. Strong retail sales suggest the consumer is holding up and gives the Fed room to stay hawkish. Weak retail sales suggest consumer stress and increases pressure on the Fed to pause. This data point will directly shape market interpretation of whatever the Fed says at 2pm.",
-        "tag": "Consumer health read — doubles FOMC impact",
-        "dateTag": "June 17 · 8:30am ET"
+        "title": "US Retail Sales + Industrial Production — June 15 & 17",
+        "desc": "May Industrial Production releases today. May Retail Sales drop on June 17 — the same morning as the Fed decision. Weak retail sales would signal consumer stress and increase pressure on the Fed to remain dovish. Strong retail sales give the Fed room to stay firm. This data directly shapes how markets interpret whatever Warsh says at 2pm Wednesday.",
+        "tag": "Double catalyst — consumer health read",
+        "dateTag": "June 15 & 17 · 8:30am ET"
       }
     ]
   },
   "picks": [
     {
-      "id": 1718265600001,
+      "id": 1749981600001,
       "ticker": "FCN",
       "company": "FTI Consulting",
       "category": "best",
-      "date": "2026-06-13",
+      "date": "2026-06-15",
       "entry": "$138–$143",
       "entryDisplay": "$138–$143",
       "stop": "$130",
@@ -62,15 +62,15 @@
       "status": "open",
       "score": 4,
       "tags": "Counter-cyclical, NYSE, Consulting",
-      "desc": "FTI Consulting provides restructuring, litigation, and economic consulting to major corporations globally. Down 33% from highs. Business fundamentals remain strong with growing demand across all divisions. Analyst targets $165–$185.",
+      "desc": "FTI Consulting provides restructuring, litigation, and economic consulting to major corporations globally. Down 33% from recent highs. Business fundamentals remain strong with growing demand across all divisions. Analyst targets $165–$185. Counter-cyclical business that historically performs well in periods of economic uncertainty.",
       "warn": ""
     },
     {
-      "id": 1718265600002,
+      "id": 1749981600002,
       "ticker": "AEM",
       "company": "Agnico Eagle Mines",
       "category": "best",
-      "date": "2026-06-13",
+      "date": "2026-06-15",
       "entry": "$100–$106",
       "entryDisplay": "$100–$106",
       "stop": "$94",
@@ -81,15 +81,15 @@
       "status": "open",
       "score": 4,
       "tags": "Gold Miner, NYSE, Dividend",
-      "desc": "World's largest high-quality gold miner with operations across Canada, Australia and Finland. Q1 2026 revenue grew 27% and free cash flow grew 128% year-on-year. Analyst consensus price target $199–$217 vs current ~$103. Pays growing dividend.",
+      "desc": "World's highest-quality gold mining operations across Canada, Australia and Finland. Q1 2026 revenue grew 27% year-on-year and free cash flow grew 128%. Analyst consensus price target $199–$217 versus current ~$103. Pays a growing dividend. Gold prices remain structurally elevated globally.",
       "warn": ""
     },
     {
-      "id": 1718265600003,
+      "id": 1749981600003,
       "ticker": "CHTR",
       "company": "Charter Communications",
       "category": "best",
-      "date": "2026-06-13",
+      "date": "2026-06-15",
       "entry": "$140–$145",
       "entryDisplay": "$140–$145",
       "stop": "$130",
@@ -100,15 +100,15 @@
       "status": "open",
       "score": 4,
       "tags": "Telecom, NYSE, $25B Buyback",
-      "desc": "Charter is the second largest cable and broadband operator in the US serving 32 million customers. Down 50% from 2025 highs. $25 billion share buyback program active. Broadband is essential infrastructure with strong pricing power. Analyst targets $185–$220.",
+      "desc": "Charter is the second largest cable and broadband operator in the US serving 32 million customers. Down 50% from 2025 highs. $25 billion share buyback program active at current prices. Broadband remains essential infrastructure with strong pricing power. Analyst targets $185–$220.",
       "warn": ""
     },
     {
-      "id": 1718265600004,
+      "id": 1749981600004,
       "ticker": "BBAI",
       "company": "BigBear.ai Holdings",
       "category": "range",
-      "date": "2026-06-13",
+      "date": "2026-06-15",
       "entry": "$3.20–$3.60",
       "entryDisplay": "$3.20–$3.60",
       "stop": "$2.70",
@@ -123,11 +123,11 @@
       "warn": ""
     },
     {
-      "id": 1718265600005,
+      "id": 1749981600005,
       "ticker": "RCAT",
       "company": "Red Cat Holdings",
       "category": "range",
-      "date": "2026-06-13",
+      "date": "2026-06-15",
       "entry": "$10.50–$11.50",
       "entryDisplay": "$10.50–$11.50",
       "stop": "$9.00",
@@ -138,8 +138,8 @@
       "status": "open",
       "score": 3,
       "tags": "Defense Drone, NASDAQ, NDAA-compliant",
-      "desc": "Red Cat makes US-manufactured autonomous drones for defence applications with no Chinese components. Recently completed a $225M capital raise. All four covering analysts rate Strong Buy with targets of $19–$21. Active US Army contracts in production.",
-      "warn": "Large holder sale filing June 12 — watch Monday volume before entering"
+      "desc": "Red Cat makes US-manufactured autonomous drones for defence applications with no Chinese components. Recently completed a $225M capital raise strengthening the balance sheet. All four covering analysts rate Strong Buy with targets of $19–$21. Active US Army contracts currently in production.",
+      "warn": "Large holder sale filing June 12 — confirm volume stabilisation before entering"
     }
   ]
 }
